@@ -1,0 +1,19 @@
+receptor = 4ey7_receptor.pdbqt
+ligand = lig.pdbqt
+
+center_x= -14.24
+center_y= -43.76 
+center_z= 28.65
+
+spacing= 0.375
+
+size_x= 40
+size_y= 40
+size_z= 40
+
+exhaustiveness= 32
+seed= 100
+num_modes= 9
+
+
+ 
