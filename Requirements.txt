@@ -1,0 +1,32 @@
+# Cheminformatics
+rdkit
+mendeleev
+
+#Computational tools
+Schrodinger
+Autodock Vina
+SwissDock
+MGL tools
+Open Babel
+Chemdraw
+GROMACS
+
+# Data Science & Machine Learning
+pandas
+numpy
+scikit-learn
+scipy
+
+#Data Source and utilities
+RCSB PDB
+ChEMDL database
+
+# Visualization
+matplotlib
+seaborn
+PyMOL
+UCSF Chimera
+Discovery studio visualizer
+
+# Notebooks
+jupyter
